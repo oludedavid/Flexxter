@@ -1,2 +1,2 @@
 # Flexxter
-Asynchronous JavaScript, Fetch API, Web components, custom element
+Asynchronous JavaScript, Fetch API, Web components, custom element, SVG
